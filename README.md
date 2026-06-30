@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0260-single-number-iii) |
+| [3917-count-indices-with-opposite-parity](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3917-count-indices-with-opposite-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
