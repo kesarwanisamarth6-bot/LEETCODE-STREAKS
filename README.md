@@ -13,9 +13,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0260-single-number-iii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
 |  |
