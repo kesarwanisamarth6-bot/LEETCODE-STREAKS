@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3857-minimum-cost-to-split-into-ones) |
+## String
+|  |
+| ------- |
+| [3856-trim-trailing-vowels](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3856-trim-trailing-vowels) |
 <!---LeetCode Topics End-->
