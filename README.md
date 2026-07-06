@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0144-binary-tree-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3857-minimum-cost-to-split-into-ones) |
 <!---LeetCode Topics End-->
