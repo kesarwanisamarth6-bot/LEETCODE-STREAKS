@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0560-subarray-sum-equals-k) |
+| [3833-count-dominant-indices](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3833-count-dominant-indices) |
 | [3862-find-the-smallest-balanced-index](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3862-find-the-smallest-balanced-index) |
 | [3917-count-indices-with-opposite-parity](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3917-count-indices-with-opposite-parity) |
 ## Bit Manipulation
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3856-trim-trailing-vowels](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3856-trim-trailing-vowels) |
+## Enumeration
+|  |
+| ------- |
+| [3833-count-dominant-indices](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3833-count-dominant-indices) |
 <!---LeetCode Topics End-->
