@@ -4,7 +4,6 @@ class Solution {
     //     if (n == 1) {
     //         return 0;
     //     }
-
     //     int a, b;
 
     //     if (n % 2 == 0) {
