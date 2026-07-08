@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## String
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3833-count-dominant-indices](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3833-count-dominant-indices) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
