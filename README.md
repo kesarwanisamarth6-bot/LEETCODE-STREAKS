@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3675-minimum-operations-to-transform-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3675-minimum-operations-to-transform-string) |
 | [3856-trim-trailing-vowels](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3856-trim-trailing-vowels) |
 ## Enumeration
 |  |
@@ -73,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3675-minimum-operations-to-transform-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3675-minimum-operations-to-transform-string) |
 <!---LeetCode Topics End-->
