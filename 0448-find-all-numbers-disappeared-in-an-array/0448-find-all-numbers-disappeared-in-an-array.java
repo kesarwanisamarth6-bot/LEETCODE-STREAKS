@@ -12,7 +12,7 @@ class Solution {
         list.add(i);
        }
      }
-     Collections.reverse(list);
+    //  Collections.reverse(list);
      return list;
     }
 }
