@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0260-single-number-iii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0560-subarray-sum-equals-k) |
 | [3452-sum-of-good-numbers](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3452-sum-of-good-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3675-minimum-operations-to-transform-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3675-minimum-operations-to-transform-string) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
