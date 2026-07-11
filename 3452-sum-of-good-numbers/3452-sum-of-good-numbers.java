@@ -12,10 +12,15 @@ class Solution {
             else if ( right>nums.length-1 && nums[left]<nums[i] ){
                 sum=sum+nums[i];
             }
+              else if(left<0 && right >nums.length-1){
+                sum=sum+nums[i];
+            }
             else if ((left>=0 && right<=nums.length-1)&& (nums[i]>nums[left] && nums[i]>nums[right])){
                 sum=sum+nums[i];
             }
+          
     }
+
     return sum;
 
 }
