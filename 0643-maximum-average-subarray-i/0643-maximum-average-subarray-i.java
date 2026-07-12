@@ -3,8 +3,6 @@ class Solution {
         int sum = 0;
         int i = 0;
         int j = 0;
-        double ans; 
-        /
         double max = Double.NEGATIVE_INFINITY;
         while(j<nums.length){
             sum = sum+nums[j];
@@ -12,13 +10,12 @@ class Solution {
                 j++;
             }
             else {
-            ans = (double)sum/k;
-            max = Math.max(ans,max);
+            max = Math.max(sum,max);
             sum=sum-nums[i];
             i++;
             j++; 
             }
         }
-        return max;
+        return max/k;
     }
 }
