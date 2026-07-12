@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0643-maximum-average-subarray-i) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3452-sum-of-good-numbers) |
 | [3833-count-dominant-indices](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3833-count-dominant-indices) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
