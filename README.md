@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0643-maximum-average-subarray-i) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3452-sum-of-good-numbers](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3452-sum-of-good-numbers) |
 | [3833-count-dominant-indices](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3833-count-dominant-indices) |
 | [3862-find-the-smallest-balanced-index](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3862-find-the-smallest-balanced-index) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
