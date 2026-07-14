@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3452-sum-of-good-numbers](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3452-sum-of-good-numbers) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3833-count-dominant-indices](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3833-count-dominant-indices) |
 | [3862-find-the-smallest-balanced-index](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3862-find-the-smallest-balanced-index) |
 | [3917-count-indices-with-opposite-parity](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3917-count-indices-with-opposite-parity) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Queue
 |  |
 | ------- |
