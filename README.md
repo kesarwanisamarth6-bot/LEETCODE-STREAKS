@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1025-divisor-game](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1025-divisor-game) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## String
 |  |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0239-sliding-window-maximum) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
