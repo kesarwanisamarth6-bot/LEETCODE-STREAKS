@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1025-divisor-game](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1025-divisor-game) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
