@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1025-divisor-game) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## String
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
