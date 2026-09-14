@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0392-is-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
