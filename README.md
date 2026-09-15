@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0424-longest-repeating-character-replacement) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
