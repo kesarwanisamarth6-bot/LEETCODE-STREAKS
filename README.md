@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0643-maximum-average-subarray-i) |
+| [0875-koko-eating-bananas](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
