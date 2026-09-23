@@ -210,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
