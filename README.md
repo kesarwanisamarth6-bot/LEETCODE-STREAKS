@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0058-length-of-last-word) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
