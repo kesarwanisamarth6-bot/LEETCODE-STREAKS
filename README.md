@@ -92,18 +92,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
