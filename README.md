@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0144-binary-tree-preorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3675-minimum-operations-to-transform-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3675-minimum-operations-to-transform-string) |
 ## Sorting
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
