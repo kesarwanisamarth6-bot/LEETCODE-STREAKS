@@ -9,7 +9,10 @@
  */
 class Solution {
     public static TreeNode lca(TreeNode root,int p,int q){
-       if(root==null || root.val == p || root.val ==q){
+    if(root==null){
+        return null;
+    }
+       if( root.val == p || root.val ==q){
         return root;
        }
 
