@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1539-kth-missing-positive-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3452-sum-of-good-numbers) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3833-count-dominant-indices](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3833-count-dominant-indices) |
 ## Greedy
 |  |
