@@ -3,8 +3,8 @@ class Solution {
     public boolean check(int[] nums, int mid , int threshold){
         int sum = 0;
         for(int i = 0;i<nums.length;i++){
-            // sum+= (nums[i] + mid - 1) / mid;
-           sum += (int) Math.ceil((double) nums[i] / (double) mid);
+            sum+= (nums[i] + mid - 1) / mid;
+        //    sum += (int) Math.ceil((double) nums[i] / (double) mid);
 
         }
         if(sum>threshold){
