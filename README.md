@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1539-kth-missing-positive-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
