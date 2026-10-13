@@ -37,6 +37,6 @@ class Solution {
             }
         
         }
-return minInt;
+return start;
     }
 }
