@@ -27,7 +27,8 @@ class Solution {
         long hours = 0;
 
         for (int pile : piles) { 
-            hours += (pile + speed - 1) / speed;
+            // hours += (pile + speed - 1) / speed;
+            hours+= (long)Math.ceil((double)pile / (double)speed);
         }
 
         return hours <= h; 
