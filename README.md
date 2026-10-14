@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1539-kth-missing-positive-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
