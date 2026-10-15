@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Newton's Method
