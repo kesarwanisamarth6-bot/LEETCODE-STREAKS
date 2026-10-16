@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1382-balance-a-binary-search-tree) |
 | [3675-minimum-operations-to-transform-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3675-minimum-operations-to-transform-string) |
 ## Sorting
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1382-balance-a-binary-search-tree) |
 ## Newton's Method
 |  |
 | ------- |
