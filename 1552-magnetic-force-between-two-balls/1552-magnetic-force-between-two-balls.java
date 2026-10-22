@@ -17,6 +17,9 @@ class Solution {
         int start = 1;
         int end = position[n-1] - position[0];
         int ans = -1;
+        if(m==2){
+            return end;
+        }
         while(start<=end){
             int mid = start + (end-start)/2;
 
