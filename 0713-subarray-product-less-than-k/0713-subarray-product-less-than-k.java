@@ -9,19 +9,24 @@ class Solution {
      }
      while(j<nums.length){
         m = m * nums[j];
-        if(m<k){
-            count+=j-i+1;
-        }
-        else{
-            while(m>=k){
-                m=m/nums[i]; 
+        // if(m<k){
+        //     count+=j-i+1;
+        // }
+        // else{
+        //     while(m>=k){
+        //         m=m/nums[i]; 
 
-                i++;
-                if(m<k){
-                    count +=j-i+1;
-                }
-            }        
-        }
+        //         i++;
+        //         if(m<k){
+        //             count +=j-i+1;
+        //         }
+        //     }    
+
+        while(m>=k){
+            m = m/nums[i];
+            i++;
+        }    
+        count+=j-i+1;
         j++;
      }   
      return count;
