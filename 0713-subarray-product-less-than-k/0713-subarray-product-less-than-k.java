@@ -4,13 +4,16 @@ class Solution {
      int j =0;
      long m = 1;
      int count = 0;
+     if(k<=1){
+        return 0;
+     }
      while(j<nums.length){
         m = m * nums[j];
         if(m<k){
             count+=j-i+1;
         }
         else{
-            while(m>k && i<nums.length){
+            while(m>=k){
                 m=m/nums[i]; 
 
                 i++;
