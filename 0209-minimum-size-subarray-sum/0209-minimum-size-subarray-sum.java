@@ -15,6 +15,7 @@ class Solution {
             }
             j++;   
     }
+    
     if(size == Integer.MAX_VALUE){
         return 0;
     }
