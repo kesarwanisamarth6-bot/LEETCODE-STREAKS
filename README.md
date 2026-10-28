@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3340-check-balanced-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3340-check-balanced-string) |
 | [3675-minimum-operations-to-transform-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3675-minimum-operations-to-transform-string) |
 | [3856-trim-trailing-vowels](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3856-trim-trailing-vowels) |
 ## Enumeration
