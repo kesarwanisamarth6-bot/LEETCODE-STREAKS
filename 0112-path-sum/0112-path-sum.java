@@ -24,6 +24,7 @@ class Solution {
 
         if(root.left ==null && root.right ==null){
             if(sum!=target){
+                sum-=root.val;
                 return false;
             }
             else{
