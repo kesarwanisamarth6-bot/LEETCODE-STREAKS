@@ -1,9 +1,7 @@
 class Solution {
     public int minMoves2(int[] nums) {
         Arrays.sort(nums);
-        int start = 0;
-        int end = nums.length-1;
-        int midIdx = start + (end-start)/2;
+        int midIdx = 0 + (nums.length-1-0)/2;
         int minVal = nums[midIdx];
 
         int i = 0;
@@ -19,9 +17,6 @@ class Solution {
             count += Math.abs(nums[j]-minVal);
             j--;
             }
-           
-            
-           
         }
         return count;
     }
