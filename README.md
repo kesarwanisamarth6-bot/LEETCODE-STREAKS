@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3452-sum-of-good-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3833-count-dominant-indices](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3833-count-dominant-indices) |
 | [3862-find-the-smallest-balanced-index](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3862-find-the-smallest-balanced-index) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3870-count-commas-in-range) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
