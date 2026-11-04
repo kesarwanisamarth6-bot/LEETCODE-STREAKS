@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1971-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -365,4 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0852-peak-index-in-a-mountain-array) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
