@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1552-magnetic-force-between-two-balls) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1552-magnetic-force-between-two-balls) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sliding Window
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1552-magnetic-force-between-two-balls) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kesarwanisamarth6-bot/LEETCODE-STREAKS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Geometry
 |  |
 | ------- |
